@@ -1,6 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:tictactoe/home_page.dart';
-
+import "dart:async";
+import "dart:html";
+import "intl/intl.dart"
+ 
+  
+//added imports  
 void main() => runApp(new MyApp());
 
 class MyApp extends StatelessWidget {
